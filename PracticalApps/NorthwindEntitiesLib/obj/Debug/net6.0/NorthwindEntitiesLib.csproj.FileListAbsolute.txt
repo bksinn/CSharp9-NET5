@@ -1,0 +1,14 @@
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\bin\Debug\net6.0\NorthwindEntitiesLib.deps.json
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\bin\Debug\net6.0\NorthwindEntitiesLib.runtimeconfig.json
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\bin\Debug\net6.0\NorthwindEntitiesLib.dll
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\bin\Debug\net6.0\ref\NorthwindEntitiesLib.dll
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\bin\Debug\net6.0\NorthwindEntitiesLib.pdb
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.csproj.AssemblyReference.cache
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.dll
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\ref\NorthwindEntitiesLib.dll
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.pdb
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.genruntimeconfig.cache

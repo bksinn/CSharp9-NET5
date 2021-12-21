@@ -1,0 +1,5 @@
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch1\HelloCS\obj\Debug\net5.0\HelloCS.csproj.AssemblyReference.cache
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch1\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch1\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch1\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch1\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache

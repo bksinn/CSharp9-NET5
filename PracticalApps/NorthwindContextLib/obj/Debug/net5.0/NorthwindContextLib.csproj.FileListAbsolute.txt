@@ -1,0 +1,15 @@
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindContextLib.deps.json
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindContextLib.dll
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\ref\NorthwindContextLib.dll
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindContextLib.pdb
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindEntitiesLib.dll
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindEntitiesLib.pdb
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.csproj.AssemblyReference.cache
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.AssemblyInfoInputs.cache
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.AssemblyInfo.cs
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.csproj.CoreCompileInputs.cache
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.csproj.CopyComplete
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.dll
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\ref\NorthwindContextLib.dll
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.pdb

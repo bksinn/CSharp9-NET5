@@ -1,0 +1,10 @@
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch5\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.AssemblyReference.cache
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch5\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch5\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch5\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch5\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch5\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch5\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch5\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch5\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+C:\Users\bksin\OneDrive\Desktop\Projects_Misc\CSharp9-.NET5\Ch5\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb
