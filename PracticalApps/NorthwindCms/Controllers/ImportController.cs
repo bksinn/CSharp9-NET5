@@ -58,15 +58,14 @@ namespace NorthwindCms.Controllers
             (await api.Media.GetAllFoldersAsync())
             .First(folder => folder.Name == "Categories").Id;
 
-        //   // find image with correct filename for category id
+        // find image with correct filename for category id
           var image = (await api.Media
             .GetAllByFolderIdAsync(categoriesFolderID))
             .First(media => media.Type == MediaType.Image
             && media.Filename == $"category{c.CategoryID}.jpeg");
 
           cp.CategoryDetail.CategoryImage = image;
-
-
+          
           if (cp.Products.Count == 0)
           {
             // convert the products for this category into
